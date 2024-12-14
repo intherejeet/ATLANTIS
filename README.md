@@ -4,7 +4,7 @@
 ATLANTIS is a framework designed to enhance the generalizability of Deep Metric Learning (DML) models in Image Search Applications based on the content-based image retrieval (CBIR) systems through automated and targeted synthetic data augmentation. The framework comprises multiple components that collectively address training data deficiencies and enhance model robustness in various data scenarios.
 
 ### Demo
-![Watch the Demo](assets/videos/atlantis_demo_low_res.mp4)
+[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](assets/videos/atlantis_demo_low_res.mp4)
 
 ## Repository Structure
 This repository is organized into several key components and scripts:
